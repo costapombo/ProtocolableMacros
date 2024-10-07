@@ -20,5 +20,3 @@ public protocol DemoServiceProtocol {
   func test()
 }
 ```
-
-## Ignore
